@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UquEDtRdrNt7QLFjX541GB+4UERnsLcxYm3MKaIRVEW2BJisuKC6guOOirTmNpD37lI+BbOiGz1JGnh6NUcqgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\God\\source\\repos\\HtmlCsvConvertor\\HtmlCsvConvertor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\God\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}
